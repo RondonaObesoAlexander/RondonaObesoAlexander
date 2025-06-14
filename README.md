@@ -33,9 +33,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RondonaObesoAlexander&theme=tokyonight" height="180"/>
 </p>
 
----
-
-### 🐍 A Snake Eating my Contributions
-![snake gif](https://github.com/RondonaObesoAlexander/RondonaObesoAlexander/blob/output/github-contribution-grid-snake.svg)
 
 
