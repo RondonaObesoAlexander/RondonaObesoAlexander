@@ -29,13 +29,13 @@
 
 ### ⚙️ GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderRondona&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexanderRondona&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RondonaObesoAlexander&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RondonaObesoAlexander&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 ### 🐍 A Snake Eating my Contributions
-![snake gif](https://github.com/AlexanderRondona/AlexanderRondona/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RondonaObesoAlexander/RondonaObesoAlexander/blob/output/github-contribution-grid-snake.svg)
 
 
