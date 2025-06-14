@@ -15,35 +15,41 @@
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/AlexanderRondona)
 
 ---
+## 💡 Frontend Development
 
-### 💡 Frontend Development
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-react-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 🧰 Software & Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-</p>
+---
 
-### 🧑‍💻 IDEs
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" />
-</p>
+## 🧰 Software & Tools
 
-### 💻 Operating Systems
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" />
-</p>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-github-181717?style=flat&logo=github)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)
+![JSON](https://img.shields.io/badge/-json-000000?style=flat&logo=json&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 🧑‍💻 IDEs
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![JetBrains](https://img.shields.io/badge/-jetbrains-000000?style=flat&logo=jetbrains&logoColor=white)
+![Atom](https://img.shields.io/badge/-atom-66595C?style=flat&logo=atom&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-eclipse%20ide-2C2255?style=flat&logo=eclipse&logoColor=white)
+
+---
+
+## 💻 Operating Systems
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/-macos-000000?style=flat&logo=apple&logoColor=white)
 
 ---
 
