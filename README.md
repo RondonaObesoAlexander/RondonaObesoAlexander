@@ -2,7 +2,7 @@
 
 🎓 Estudiante de Ingeniería de Software con una mente inquieta, pasión por la tecnología y muchas ganas de crear cosas increíbles.
 
-🔒 Me interesa la **ciberseguridad**, el **desarrollo web**, los **videojuegos** y las **redes**. Disfruto construyendo soluciones, aprendiendo nuevas herramientas y experimentando con ideas.
+🔒 Me interesa la **ciberseguridad**, el **desarrollo web**, el **desarrollo de videojuegos** y las **redes**. Disfruto construyendo soluciones, aprendiendo nuevas herramientas y experimentando con ideas.
 
 🛠️ Tecnologías que uso y estudio:
 - 💻 **Java**, **Python**, **SQL**
