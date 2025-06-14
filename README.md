@@ -38,6 +38,4 @@
 ### 🐍 A Snake Eating my Contributions
 ![snake gif](https://github.com/AlexanderRondona/AlexanderRondona/blob/output/github-contribution-grid-snake.svg)
 
----
 
-> “El único error real es aquel del que no aprendemos nada.”
