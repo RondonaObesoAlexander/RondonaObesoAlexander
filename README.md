@@ -33,10 +33,19 @@
 
 ---
 
-## 🧑‍💻 IDEs  
+## 🧑‍💻 IDEs 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)&nbsp;&nbsp;
-![JetBrains](https://img.shields.io/badge/-jetbrains-000000?style=flat&logo=jetbrains&logoColor=white)&nbsp;&nbsp;
-![Atom](https://img.shields.io/badge/-atom-66595C?style=flat&logo=atom&logoColor=whi)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache%20netbeans%20ide&logoColor=white)&nbsp;&nbsp;
+![Eclipse](https://img.shields.io/badge/-eclipse%20ide-2C2255?style=flat&logo=eclipse&logoColor=white)
+
+
+---
+
+## 💻 Operating Systems  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;&nbsp;
+![MacOS](https://img.shields.io/badge/-macos-000000?style=flat&logo=apple&logoColor=white)
 
 ---
 
