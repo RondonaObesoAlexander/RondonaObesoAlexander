@@ -9,14 +9,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-<br />
-<hr />
-<br />
+<br /><br />
 
 <div>
   <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=RondonaObesoAlexander&theme=radical&hide_border=true&background=transparent" alt="GitHub Streak" />
   
-  <h2><img src="https://raw.githubusercontent.com/MartinVerastegui/MartinVerastegui/main/assets/programmer.gif" width="30px"/> About Me</h2>
+  <h3><img src="https://raw.githubusercontent.com/MartinVerastegui/MartinVerastegui/main/assets/programmer.gif" width="30px"/> About Me</h3>
   <p>
     I'm a <b>Software Engineering</b> student passionate about <b>Cybersecurity</b>. I analyze and break down systems to understand how to defend them against modern threats.
   </p>
@@ -27,12 +25,10 @@
 </div>
 
 <br clear="both"/>
-<br />
-<hr />
-<br />
+<br /><br />
 
 <div align="center">
-  <h2>🛠️ Tech Stack & Arsenal</h2>
+  <h3>🛠️ Tech Stack & Arsenal</h3>
   
   <br />
 
@@ -53,22 +49,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" title="Debian" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" title="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="45" height="45" alt="MacOS" title="MacOS" />
-</div>
-<br />
-<hr />
-<br />
-
-<div align="center">
-  <h2>🎮 Code Activity (Contribution Snake)</h2>
-  <p>Pushing code daily, visualized by the classic Snake game.</p>
-  <img src="https://raw.githubusercontent.com/RondonaObesoAlexander/RondonaObesoAlexander/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" width="100%" />
-</div>
-<br />
-<br />
-<div align="center">
-  <i>"Security is a process, not a product." — Bruce Schneier</i>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" title="Debian" />&nbsp;&nbsp;&nbsp;&
