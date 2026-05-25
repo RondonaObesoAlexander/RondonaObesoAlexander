@@ -7,52 +7,59 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 🎓 I'm currently studying **Software Engineering**
-- 🔐 Interested in **Cybersecurity**, **Web Dev**, **Game Dev**, and **Networks**
-- 💻 Passionate about learning and building tech that makes a difference
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/AlexanderRondona)
+### 👨‍💻 About Me
 
----
-## 💡 Frontend Development  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-react-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+- 🎓 **Education:** Software Engineering Student passionate about building secure and scalable tech.
+- 🔐 **Focus Areas:** Deeply interested in **Cybersecurity**, **Network Defense**, and robust **Backend Architecture**.
+- 🛠️ **Hobbies:** Exploring Linux distros, auditing systems, and occasional game development.
+- 🎯 **Current Goal:** Mastering ethical hacking principles and infrastructure security.
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/AlexanderRondona)
 
 ---
 
-## 🧰 Software & Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-github-181717?style=flat&logo=github)&nbsp;&nbsp;
-![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)&nbsp;&nbsp;
-![JSON](https://img.shields.io/badge/-json-000000?style=flat&logo=json&logoColor=white)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack & Toolkit
+
+### 💻 Languages & Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🧰 Backend, Databases & Tools
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🧑‍💻 IDEs & Environments
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+### 🐧 Operating Systems
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 🧑‍💻 IDEs 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)&nbsp;&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache%20netbeans%20ide&logoColor=white)&nbsp;&nbsp;
-![Eclipse](https://img.shields.io/badge/-eclipse%20ide-2C2255?style=flat&logo=eclipse&logoColor=white)
+### ⚙️ GitHub Stats
 
-
----
-
-## 💻 Operating Systems  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)&nbsp;&nbsp;
-![MacOS](https://img.shields.io/badge/-macos-000000?style=flat&logo=apple&logoColor=white)
-
----
-
-### ⚙️ GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RondonaObesoAlexander&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RondonaObesoAlexander&theme=tokyonight" height="180"/>
 </p>
 
+---
 
+### 🎮 Contribution Snake
 
+Aquí abajo puedes ver cómo una serpiente devora mi historial de contribuciones en GitHub. ¡Trabajando duro día a día!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RondonaObesoAlexander/RondonaObesoAlexander/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
+</p>
+
+---
+<p align="center"><i>"Security is not a product, but a process."</i></p>
