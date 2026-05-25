@@ -1,83 +1,208 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Alexander%20Rondona&fontSize=60&fontAlignY=35&animation=twinkling&desc=Software%20Engineering%20|%20Future%20Cybersecurity%20Specialist&descAlignY=60&descFontSize=20" width="100%" />
-</div>
+### <a name="technologies-and-tools" style="text-decoration: none;">&nbsp;🛠️ Tech Stack & Arsenal</a>
+
+<p align="center">
+  A curated collection of tools I use to build scalable and secure applications, with a special focus on game development.
+</p>
 
 <div align="center">
-  <h3>Passionate about building secure, scalable, and resilient tech 🚀</h3>
-  <p>Network Defense | Backend Architecture | Ethical Hacking</p>
-  <a href="https://www.linkedin.com/in/AlexanderRondona" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-<br />
-<hr />
-<br />
-
-<div>
-  <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=RondonaObesoAlexander&theme=radical&hide_border=true&background=transparent" alt="GitHub Streak" />
-  
-  <h3><img src="https://raw.githubusercontent.com/MartinVerastegui/MartinVerastegui/main/assets/programmer.gif" width="30px"/> About Me</h3>
-  <p>
-    I'm a <b>Software Engineering</b> student passionate about <b>Cybersecurity</b>. I analyze and break down systems to understand how to defend them against modern threats.
-  </p>
-  <ul>
-    <li>🎯 <b>Focus:</b> Ethical Hacking, Network Defense & Secure Architecture.</li>
-    <li>💻 <b>Interests:</b> Linux environments, App Dev, and IT infrastructure.</li>
-  </ul>
+  <h4>🎮 Game Development (Focus: C++ & C#)</h4>
+  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/>
+    </a>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer">
+      <img src="https://unity-partners.com/wp-content/uploads/2019/04/unity-logo-icon.png" alt="unity" width="35" height="35"/>
+    </a>
+    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+      <img src="https://logos-world.net/wp-content/uploads/2021/08/Unreal-Engine-Logo.png" alt="unrealengine" width="35" height="35"/>
+    </a>
+  </div>
 </div>
 
-<br clear="both"/>
-<br />
-<hr />
-<br />
+<br/>
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Arsenal</h3>
+  <h4>🚀 Junior Engineer Foundation</h4>
+  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="githubactions" width="35" height="35"/>
+    </a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+      <img src="https://logos-world.net/wp-content/uploads/2020/12/Jira-Logo.png" alt="jira" width="35" height="35"/>
+    </a>
+    <a href="https://slack.com/" target="_blank" rel="noreferrer">
+      <img src="https://logos-world.net/wp-content/uploads/2020/11/Slack-Logo.png" alt="slack" width="35" height="35"/>
+    </a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img src="https://logos-world.net/wp-content/uploads/2021/10/Postman-Logo.png" alt="postman" width="35" height="35"/>
+    </a>
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+      <img src="https://jestjs.io/img/jest.png" alt="jest" width="35" height="35"/>
+    </a>
+    <a href="https://pytest.org/" target="_blank" rel="noreferrer">
+      <img src="https://pytest.org/_static/pytest-icon.svg" alt="pytest" width="35" height="35"/>
+    </a>
+    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+      <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit" width="35" height="35"/>
+    </a>
+  </div>
+</div>
 
-  <h4>💻 Languages & Backend</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
-  
+<br/>
+
+<div align="center">
+  <h4>💻 Languages</h4>
+  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/>
+    </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="35" height="35"/>
+    </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/>
+    </a>
+  </div>
+</div>
+
+<br/>
+
+<div align="center">
   <h4>🎨 Frontend</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" title="Bootstrap" />
-  
-  <h4>🗄️ Database & Data</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/json.png" width="45" height="45" alt="JSON" title="JSON" />
-
-  <h4>🔄 Version Control & Community</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="45" height="45" alt="Stack Overflow" title="Stack Overflow" />
-
-  <h4>⚙️ IDEs & Tools</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="Android Studio" title="Android Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse" title="Eclipse" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" width="45" height="45" alt="NetBeans" title="NetBeans" />
-
-  <h4>🐧 OS & Environments</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" title="Debian" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" title="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="45" height="45" alt="MacOS" title="MacOS" />
-
+  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
+    </a>
+    <a href="https://angular.io/" target="_blank" rel="noreferrer">
+      <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="angular" width="35" height="35"/>
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/>
+    </a>
+    <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="35" height="35"/>
+    </a>
+  </div>
 </div>
-<br />
-<hr />
-<br />
+
+<br/>
 
 <div align="center">
-  <h3>🎮 Code Activity (Contribution Snake)</h3>
-  <p>Pushing code daily, visualized by the classic Snake game.</p>
-  <img src="https://raw.githubusercontent.com/RondonaObesoAlexander/RondonaObesoAlexander/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" width="100%" />
+  <h4>🗄️ Backend</h4>
+  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
+    </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="35" height="35"/>
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35"/>
+    </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="35" height="35"/>
+    </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/>
+    </a>
+  </div>
 </div>
-<br /><br />
+
+<br/>
+
 <div align="center">
-  <i>"Security is a process, not a product." — Bruce Schneier</i>
+  <h4>📂 Database & Data</h4>
+  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/>
+    </a>
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
+    </a>
+    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="35" height="35"/>
+    </a>
+    <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="35" height="35"/>
+    </a>
+  </div>
 </div>
+
+<br/>
+
+<div align="center">
+  <h4>🛠️ DevOps & Infrastructure</h4>
+  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="35" height="35"/>
+    </a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="35" height="35"/>
+    </a>
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35"/>
+    </a>
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="35" height="35"/>
+    </a>
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="githubactions" width="35" height="35"/>
+    </a>
+    <a href="https://www.prometheus.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="35" height="35"/>
+    </a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="35" height="35"/>
+    </a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="35" height="35"/>
+    </a>
+  </div>
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>🖥️ Operating Systems</h4>
+  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
+    </a>
+  </div>
+</div>
+
+<br/>
+<hr/>
