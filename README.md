@@ -13,20 +13,23 @@
 <hr />
 <br />
 
-<div align="center">
-  <h2><img src="https://raw.githubusercontent.com/MartinVerastegui/MartinVerastegui/main/assets/programmer.gif" width="30px"/> About Me</h2>
-  <p>
-    I'm a <b>Software Engineering</b> student passionate about <b>Cybersecurity</b>. I analyze and break down systems to understand how to defend them against modern threats.
-  </p>
-  <p>
-    🎯 <b>Focus:</b> Ethical Hacking, Network Defense & Secure Architecture <br />
-    💻 <b>Interests:</b> Linux environments, App Dev, and IT infrastructure
-  </p>
-  
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RondonaObesoAlexander&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h2><img src="https://raw.githubusercontent.com/MartinVerastegui/MartinVerastegui/main/assets/programmer.gif" width="30px"/> About Me</h2>
+      <p>
+        I'm a <b>Software Engineering</b> student passionate about <b>Cybersecurity</b>. I analyze and break down systems to understand how to defend them against modern threats.
+      </p>
+      <ul>
+        <li>🎯 <b>Focus:</b> Ethical Hacking, Network Defense & Secure Architecture.</li>
+        <li>💻 <b>Interests:</b> Linux environments, App Dev, and IT infrastructure.</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RondonaObesoAlexander&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 <br />
 <hr />
 <br />
