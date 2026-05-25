@@ -83,7 +83,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="35" height="35" alt="Redis" title="Redis" />
     </td>
     <td width="34%" align="center" valign="top" style="border: none !important;">
-      <h4>🚀 Version Contro</h4>
+      <h4>🚀 Version Control</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" height="35" alt="GitHub" title="GitHub" />
       <h4>🛠️ DevOps & Infra</h4>
@@ -91,7 +91,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="35" height="35" alt="AWS" title="AWS" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="35" height="35" alt="Google Cloud" title="Google Cloud" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="35" height="35" alt="Azure" title="Azure" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="35" height="35" alt="Jenkins" title="Jenkins" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="35" height="35" alt="Terraform" title="Terraform" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="35" height="35" alt="Kubernetes" title="Kubernetes" />
     </td>
