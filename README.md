@@ -11,7 +11,6 @@
 - 🎓 I'm currently studying **Software Engineering**
 - 🔐 Interested in **Cybersecurity**, **Web Dev**, **Game Dev**, and **Networks**
 - 💻 Passionate about learning and building tech that makes a difference
-- 🏈 Amateur football & basketball player (Teamwork is my second nature)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/AlexanderRondona)
 
 ---
