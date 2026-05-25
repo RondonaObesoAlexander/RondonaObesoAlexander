@@ -36,16 +36,15 @@
   <p>A curated collection of tools I use to build secure applications and immersive games.</p>
 </div>
 
-<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
+<table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
   <tr style="border: none; background: transparent;">
-    
     <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
       <h4>🎮 Game Development</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="35" height="35" alt="C++" title="C++" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="35" height="35" alt="C#" title="C#" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="35" height="35" alt="Unity" title="Unity" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="35" height="35" alt="Unreal Engine" title="Unreal Engine" />
-
+      <br /><br />
       <h4>💻 Core Languages</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" height="35" alt="Java" title="Java" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" alt="Python" title="Python" />&nbsp;&nbsp;
@@ -53,25 +52,24 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" height="35" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="35" height="35" alt="PHP" title="PHP" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="35" height="35" alt="Go" title="Go" />
-
+      <br /><br />
       <h4>🖥️ Environment</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" height="35" alt="Linux Server" title="Linux Server" />
     </td>
-
     <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
       <h4>🎨 Frontend</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" height="35" alt="React" title="React" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" height="35" alt="Angular" title="Angular" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="35" height="35" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="35" height="35" alt="Svelte" title="Svelte" />
-
+      <br /><br />
       <h4>🗄️ Backend Frameworks</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="35" height="35" alt="Express" title="Express" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="35" height="35" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="35" height="35" alt="Laravel" title="Laravel" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="35" height="35" alt=".NET Core" title=".NET Core" />
-
+      <br /><br />
       <h4>📂 Database & Data</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" height="35" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" height="35" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
@@ -80,7 +78,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="35" height="35" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="35" height="35" alt="Redis" title="Redis" />
     </td>
-
     <td width="34%" align="center" valign="top" style="border: none; background: transparent;">
       <h4>🚀 Junior Foundation</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" height="35" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
@@ -90,7 +87,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="35" height="35" alt="Jest" title="Jest" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="35" height="35" alt="Pytest" title="Pytest" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg" width="35" height="35" alt="JUnit" title="JUnit" />
-
+      <br /><br />
       <h4>🛠️ DevOps & Infra</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" height="35" alt="Docker" title="Docker" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="35" height="35" alt="AWS" title="AWS" />&nbsp;&nbsp;
