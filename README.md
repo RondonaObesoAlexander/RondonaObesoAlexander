@@ -18,12 +18,11 @@
     <td width="55%" valign="top">
       <h2><img src="https://raw.githubusercontent.com/MartinVerastegui/MartinVerastegui/main/assets/programmer.gif" width="30px"/> About Me</h2>
       <p>
-        Hi! I'm a <b>Software Engineering</b> student based in Peru, deeply focused on the critical and fascinating world of <b>Cybersecurity</b>. I am driven by the need to understand how systems work from the inside out to protect and strengthen them against modern threats.
+        I'm a <b>Software Engineering</b> student passionate about <b>Cybersecurity</b>. I analyze and break down systems to understand how to defend them against modern threats.
       </p>
       <ul>
-        <li>🎯 <b>Current Focus:</b> Mastering Ethical Hacking principles, Network Defense, and infrastructure security.</li>
-        <li>🛠️ <b>Hobbies:</b> Configuring Linux environments (Debian/Ubuntu), hardware monitoring, and occasional game development.</li>
-        <li>💡 <b>Interests:</b> Networking, App & Web Dev, and everything related to offensive/defensive security.</li>
+        <li>🎯 <b>Focus:</b> Ethical Hacking, Network Defense & Secure Architecture.</li>
+        <li>💻 <b>Interests:</b> Linux environments, App Dev, and IT infrastructure.</li>
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
