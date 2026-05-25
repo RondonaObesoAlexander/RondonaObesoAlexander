@@ -55,4 +55,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" title="Debian" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" title="Windows" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="45" height="45" alt="MacOS" title="MacOS" />
+</div>
+<br />
+<hr />
+<br />
+
+<div align="center">
+  <h3>🎮 Code Activity (Contribution Snake)</h3>
+  <p>Pushing code daily, visualized by the classic Snake game.</p>
+  <img src="https://raw.githubusercontent.com/RondonaObesoAlexander/RondonaObesoAlexander/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" width="100%" />
+</div>
+<br /><br />
+<div align="center">
+  <i>"Security is a process, not a product." — Bruce Schneier</i>
+</div>
