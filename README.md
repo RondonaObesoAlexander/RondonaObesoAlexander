@@ -9,7 +9,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-<br /><br />
+<br />
+<hr />
+<br />
 
 <div>
   <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=RondonaObesoAlexander&theme=radical&hide_border=true&background=transparent" alt="GitHub Streak" />
@@ -25,7 +27,9 @@
 </div>
 
 <br clear="both"/>
-<br /><br />
+<br />
+<hr />
+<br />
 
 <div align="center">
   <h3>🛠️ Tech Stack & Arsenal</h3>
@@ -49,4 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" title="Debian" />&nbsp;&nbsp;&nbsp;&
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" title="Debian" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src
