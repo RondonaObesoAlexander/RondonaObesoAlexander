@@ -39,46 +39,53 @@
   <h2>🛠️ Tech Stack & Arsenal</h2>
 </div>
 
-<table align="center" width="100%" border="0" cellpadding="5" cellspacing="0">
+<table width="100%" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border-color: #30363d;">
   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3><img src="https://img.icons8.com/color/24/000000/code.png"/> Languages & Frontend</h3>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3><img src="https://img.icons8.com/color/24/000000/database.png"/> Databases & Tools</h3>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-      </div>
+    <td width="25%" align="left"><b>Languages & Backend:</b></td>
+    <td width="75%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="35" height="35" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35" height="35" alt="Python" title="Python" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3><img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/> Environments</h3>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-      </div>
+    <td align="left"><b>Frontend:</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" height="35" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" height="35" alt="CSS3" title="CSS3" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" height="35" alt="React" title="React" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="35" height="35" alt="Bootstrap" title="Bootstrap" />
     </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3><img src="https://img.icons8.com/color/24/000000/linux.png"/> Operating Systems</h3>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-        <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" />
-      </div>
+  </tr>
+  <tr>
+    <td align="left"><b>Database:</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" height="35" alt="MySQL" title="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>IDEs & Tools:</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35" alt="VS Code" title="VS Code" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="35" height="35" alt="Android Studio" title="Android Studio" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="35" height="35" alt="Eclipse" title="Eclipse" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>Version Control:</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" height="35" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" height="35" alt="GitHub" title="GitHub" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><b>OS & Environments:</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" height="35" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="35" height="35" alt="Debian" title="Debian" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="35" height="35" alt="Ubuntu" title="Ubuntu" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="35" height="35" alt="Windows" title="Windows" />&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="35" height="35" alt="MacOS" title="MacOS" />
     </td>
   </tr>
 </table>
