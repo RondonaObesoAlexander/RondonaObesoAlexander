@@ -102,7 +102,6 @@
 <!-- ACTIVIDAD Y SNAKE START -->
 <div align="center">
   <h2>🎮 Mi Actividad en Código </h2>
-  <p>Trabajando duro día a día, visualizado en el clásico juego de Snake.</p>
   <img src="https://raw.githubusercontent.com/RondonaObesoAlexander/RondonaObesoAlexander/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" width="100%" />
 </div>
 <!-- ACTIVIDAD Y SNAKE END -->
@@ -110,5 +109,4 @@
 <br />
 <br />
 <div align="center">
-  <i>"La seguridad no es un producto, es un proceso."</i>
 </div>
