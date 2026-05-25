@@ -36,60 +36,9 @@
   <br />
 </div>
 
-<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" align="left" valign="top">
       <h4>💻 Languages & Backend</h4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🎨 Frontend</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React" title="React" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" title="Bootstrap" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>🗄️ Database</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" title="MySQL" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🔄 Version Control</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>🐧 OS & Environments</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" alt="Linux" title="Linux" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="45" height="45" alt="Debian" title="Debian" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu" title="Ubuntu" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="45" height="45" alt="Windows" title="Windows" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="45" height="45" alt="MacOS" title="MacOS" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>⚙️ IDEs & Tools</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="45" height="45" alt="Android Studio" title="Android Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse" title="Eclipse" />
-    </td>
-  </tr>
-</table>
-<br />
-<hr />
-<br />
-
-<div align="center">
-  <h3>🎮 Code Activity (Contribution Snake)</h3>
-  <p>Pushing code daily, visualized by the classic Snake game.</p>
-  <img src="https://raw.githubusercontent.com/RondonaObesoAlexander/RondonaObesoAlexander/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" width="100%" />
-</div>
-<br /><br />
-<div align="center">
-  <i>"Security is a process, not a product." — Bruce Schneier</i>
-</div>
+      <img src="https://cdn.jsdelivr.net/
