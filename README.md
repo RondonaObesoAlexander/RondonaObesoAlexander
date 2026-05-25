@@ -33,7 +33,8 @@
     </td>
     <!-- Right Column (Stats Image) -->
     <td width="45%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=RondonaObesoAlexander&show_icons=true&theme=radical&rank_icon=github&v=1" alt="Github Stats" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RondonaObesoAlexander&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
     </td>
   </tr>
 </table>
