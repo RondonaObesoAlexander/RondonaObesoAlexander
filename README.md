@@ -103,7 +103,7 @@
 <div align="center">
   <h3>🎮 Code Activity (Contribution Snake)</h3>
   <p>Pushing code daily, visualized by the classic Snake game.</p>
-  <img src="https://raw.githubusercontent.com/RondonaObesoAlexander/RondonaObesoAlexander/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/RondonaObesoAlexander/RondonaObesoAlexander/main/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 <br /><br />
 <div align="center">
