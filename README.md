@@ -10,7 +10,7 @@ div align="center">
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  > PLAYER : Alexander Rondona Obeso                                  ║
 ║  > CLASS  : Software Engineering Student @ UTP                       ║
-║  > SERVER : Comas, Lima, Perú 🇵🇪                                     ║
+║  > SERVER : Lima, Perú 🇵🇪                                     ║
 ║  > GUILD  : Cybersecurity · Systems Architecture · Full-Stack ·      ║
 ║             Immersive Games                                          ║
 ║  > STATUS : ▰▰▰▰▰▱▱▱▱ leveling up...                                 ║
@@ -166,7 +166,7 @@ $ ls ~/bunker
 ```text
 ╔══════════════════════════════════════════╗
 ║  BOSS : Secure Offline Architecture      ║
-║  HP   : ▰▰▰▰▰▰▰▰▱▱  (en progreso)        ║
+║  HP   : ▰▰▰▰▰▰▰▰▱▱(en progreso) ║
 ║  LOOT : air-gapped apps + hash chain     ║
 ║         inmutable anti-manipulación      ║
 ╚══════════════════════════════════════════╝
